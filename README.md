@@ -9,7 +9,6 @@ Datum:      24.11.2026
 |---------|------------|--------------------------------------------------------------------------|
 | v01     | 24.11.2026 | Erstfassung aus der Validierungs- und Übergabenotiz v01 und CP4-Notiz v01; GIF aus Bildschirmaufnahme 24.11.2026 |
 | v02     | 24.11.2026 | Abschnitt „Dateien und Öffnen“ ergänzt; PBIX und beide CSV aus dem Übergabeordner („Check für weitergabe“) im Repo |
-| v03     | 24.11.2026 | „Abschlussprojekt“ ersetzt durch „Projekt im Modul“ (Abschlussprojekt der Weiterbildung ist das spätere Capstone-Projekt) |
 -->
 
 # PeakFlow – Vertriebsbericht mit Zeilensicherheit (Power BI)
