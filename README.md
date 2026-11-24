@@ -13,7 +13,7 @@ Datum:      24.11.2026
 
 # PeakFlow – Vertriebsbericht mit Zeilensicherheit (Power BI)
 
-Abschlussprojekt des Moduls **Advanced Power BI** in der Weiterbildung *AI-Powered Data Analyst* (Masterschool Institute of Technology, 2026).
+Projekt im Modul **Advanced Power BI** der Weiterbildung *AI-Powered Data Analyst* (Masterschool Institute of Technology, 2026).
 Der Bericht wurde in vier Checkpoints aufgebaut: Grundbericht → Zeitintelligenz und Ranking → Kennzahlwechsel und Preisszenario → Zeilensicherheit, Übergabe und Performance.
 
 ![Rundgang durch den Bericht](images/01_rundgang.gif)
